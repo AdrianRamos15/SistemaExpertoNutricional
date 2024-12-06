@@ -1,5 +1,3 @@
-# SistemaExpertoNutricional
-
 # Sistema Experto Nutricional para Condiciones de Salud Específicas 🌱
 
 ## Descripción del Proyecto
