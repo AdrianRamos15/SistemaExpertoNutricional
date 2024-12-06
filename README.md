@@ -1,4 +1,4 @@
-# Sistema Experto Nutricional para Condiciones de Salud Específicas 🌱
+# SistemaExperto Nutricional para Condiciones de Salud Específicas 🌱
 
 ## Descripción del Proyecto
 Este proyecto desarrolla un sistema experto nutricional diseñado para proporcionar recomendaciones personalizadas de alimentos a personas con ciertas condiciones de salud. Está enfocado en tres enfermedades principales:
