@@ -43,10 +43,4 @@ El sistema:
 1. Clasifica al paciente como adulto con exceso de peso y actividad ligera.
 2. Genera una dieta adaptada a las necesidades de una persona con diabetes, priorizando nutrientes específicos como carbohidratos controlados, fibra y vitamina C.
 
-### Regla Ejemplo
-```clips
-(defrule necesidad-diabetes
-   (paciente (tipo_enfermedad diabetes))
-   =>
-   (assert (nutriente "vitaminaC"))
-)
+
